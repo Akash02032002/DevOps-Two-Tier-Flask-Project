@@ -1,6 +1,7 @@
 # DevOps Project Report: Automated CI/CD Pipeline for a 2-Tier Flask Application on AWS
 
 **Author:** Akash Kumar
+
 **Date:** December, 2025
 
 ---
@@ -307,4 +308,5 @@ The CI/CD pipeline is now fully operational. Any `git push` to the `main` branch
 
 
 ### **10. Work flow Diagram**
+
 <img src="diagrams/project_workflow.png">
